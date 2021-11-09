@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: center;
+    font-size: 25px;
+    
+}
+span{
+    color: crimson;
+    font-size: 35px;
+    font-family: fantasy;
+}
+#result{
+    border-radius:30px;
+    box-shadow: inset 5px 5px 10px black,
+                      5px 5px 10px rgb(0, 0,0);
+    margin-top: 15px;
+    color: black;
+    border: none;
+    vertical-align: center;
+}
+#todo{
+margin-top: 25px;
+}
